@@ -5,9 +5,12 @@ int main()
 {
     int val_a = 10;
     int val_b = 20;
+    int val_s = 0;
 
     printf("Hello world!\n");
-    printf("a + b = %d\n", add(val_a, val_b));
+    
+    val_s = add(val_a, val_b);
+    printf("a + b = %d\n", val_s);
 
     return 0;
 }
