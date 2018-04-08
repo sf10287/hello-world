@@ -1,13 +1,15 @@
 #include "stdio.h"
 
-int main(int argc, char *argv[])
+int add(int x, int y)
 {
-    int x, y;
+//    int x, y;
+    int sum = 0;
 
-    x = 10;
-    y = 11;
+//    x = 10;
+//    y = 11;
 
-    printf("x + y = %d\n", x + y);
+    sum = x + y;
+    printf("x + y = %d\n", sum);
 
-    return 0;
+    return su;
 }
