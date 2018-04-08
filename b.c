@@ -3,10 +3,10 @@
 
 int add(int x, int y)
 {
-    int sum = 0;
+    int sm = 0;
 
-    sum = x + y;
-    printf("x + y = %d\n", sum);
+    sm = x + y;
+    printf("x + y = %d\n", sm);
 
-    return su;
+    return sm;
 }
