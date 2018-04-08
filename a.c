@@ -4,7 +4,7 @@
 int main()
 {
     int val_a = 10;
-    int val_b = 20;
+    int val_b = 25;
     int val_s = 0;
 
     printf("Hello world!\n");
