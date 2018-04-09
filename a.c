@@ -3,7 +3,7 @@
 
 int main()
 {
-    int val_a = 10;
+    int val_a = 11;
     int val_b = 25;
     int val_s = 0;
 
